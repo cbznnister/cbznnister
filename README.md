@@ -2,7 +2,7 @@
 
 <img align="right" alt="Welcome" width="250" src="https://raw.githubusercontent.com/gist/MaxHalford/003ce7c42e2a82f26a851d9db1455e73/raw/e30c7695f50b006a93e889ddeccf29a5b5ec7095/hello.gif">
 
-#### 🌱 Welcome to my peaceful corner of the internet!
+#### 🌱 Welcome to my cozy corner of the internet!
 
 I'm Caleb, a **Computer Science and Engineering Student at The Ohio State Univeristy** with a strong passion for **Backend Development** and **AI Agents**. 
 
