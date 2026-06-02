@@ -10,7 +10,7 @@ I'm Caleb, a **Computer Science and Engineering Student at The Ohio State Univer
 
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="40em" align="center" alt="Follow calebbannister28 on LinkedIn" title="Follow calebbannister28 on LinkedIn"/>](https://www.linkedin.com/in/calebbannister28/)&nbsp;
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" height="40em" align="center" alt="Visit Caleb Bannister's Postman" title="Visit Caleb Bannister's Postman"/>]()&nbsp;
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" height="40em" align="center" alt="Visit Caleb Bannister's Repository" title="Visit Caleb Bannister's Repository"/>]()&nbsp;
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" height="40em" align="center" alt="Visit Caleb Bannister's Repository" title="Visit Caleb Bannister's Repository"/>](https://github.com/cbznnister?tab=repositories)&nbsp;
 
 <hr>
 
