@@ -16,7 +16,7 @@ I'm Caleb, a **Computer Science and Engineering Student at The Ohio State Univer
 
 ### 🧰 Languages and Tools
 
-I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
+I mostly work with **Java**, specifically **Spring Boot** in the backend with **PostgreSQL** as the database and **React.js** as the frontend. Recently, I have been tinkering with **Claude Code**.
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
